@@ -43,9 +43,9 @@ class Link:
 
 class TestLink:
     def __init__(self):
-        self.l = Link(0)
-        self.l.append(1)
-        self.l.append(2).append(3).append(4).append(5)
+        self.l = Link(1)
+        self.l.append(2)
+        self.l.append(3).append(4).append(5).append(6)
 
     # def test_add(self):
     #     self.l = Link(0)
@@ -59,7 +59,7 @@ class TestLink:
 
     def test_search(self):
         print(self.l.search(3))
-        print(self.l.search(0))
+        print(self.l.search(1))
 
 
 if __name__ == '__main__':
