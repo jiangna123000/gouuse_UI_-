@@ -1,3 +1,10 @@
+"""
+堆栈目前考虑的使用场景：
+1. 树状数据在指定的位置插入数据
+2. 搜索出目标参数的位置
+"""
+
+
 class Link:
     def __init__(self, data=None):   # 默认一个参数可传可不传
         self.data = data
@@ -63,6 +70,10 @@ class TestLink:
 
 
 if __name__ == '__main__':
+    a={"userName": "testyto",
+       "password": "111111",
+       "validateCodeKey": "700233df-30c6-4412-92cd-6eebd24af07a",
+       "validateCode": "K5UW",
+       "platform": "134160222D87"}
     TestLink().test_insert()
     print("------------")
-    TestLink().test_search()

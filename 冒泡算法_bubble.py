@@ -1,3 +1,8 @@
+"""
+冒泡算法目前考虑的使用场景：
+1. 给特殊的列表排序,并判断两个列表是否是我预计的样式
+"""
+
 
 class TestBubble:
     def __init__(self, data, except_data):
