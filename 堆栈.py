@@ -64,5 +64,5 @@ class TestLink:
 
 if __name__ == '__main__':
     TestLink().test_insert()
-    print("？？？")
+    print("------------")
     TestLink().test_search()
