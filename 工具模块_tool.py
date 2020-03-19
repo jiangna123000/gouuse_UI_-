@@ -1,5 +1,5 @@
 """
-各种小工具
+1. Search搜索数据中对应的位置和值
 """
 
 
@@ -16,7 +16,7 @@ class Search:
     @staticmethod
     def search_json(data, key):   # 字典数据搜索key并找到对应value和位置
         index = 0
-        for k in data.keys():
+        for k, v in data.items():    # 还有种写法只遍历key可以写成data.keys()
             if k == key:
                 print(key + ':' + data[key])
                 break

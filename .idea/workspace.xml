@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="375d0f8e-07f2-4737-9772-56051be8fd38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/工具模块_tool.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bubble_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/冒泡算法_bubble.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/堆栈.py" beforeDir="false" afterPath="$PROJECT_DIR$/堆栈_link.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/工具模块_tool.py" beforeDir="false" afterPath="$PROJECT_DIR$/工具模块_tool.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/工具模块_tool.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="837">
-              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+            <state relative-caret-position="540">
+              <caret line="29" column="34" lean-forward="true" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -49,6 +47,19 @@
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -231,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584581760703</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="字典的处理">
+      <created>1584600924699</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1584600924699</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -247,7 +265,7 @@
       <window_info anchor="bottom" id="Python Console" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.43945312" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.23119015" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.17236662" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3378933" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -307,7 +325,8 @@
     <MESSAGE value="学习冒泡算法和堆栈" />
     <MESSAGE value="学习冒泡算法和堆栈2" />
     <MESSAGE value="学习冒泡算法和堆栈3" />
-    <option name="LAST_COMMIT_MESSAGE" value="学习冒泡算法和堆栈3" />
+    <MESSAGE value="字典的处理" />
+    <option name="LAST_COMMIT_MESSAGE" value="字典的处理" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/冒泡算法_bubble.py">
@@ -326,8 +345,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/工具模块_tool.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="837">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        <state relative-caret-position="540">
+          <caret line="29" column="34" lean-forward="true" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
         </state>
       </provider>
     </entry>
